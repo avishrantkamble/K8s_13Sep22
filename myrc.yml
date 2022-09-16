@@ -18,3 +18,4 @@ spec:
        image: maha4iac/myjavaapplication:1
        ports:
            - containerPort: 8080
+           - containerPort: 8080
